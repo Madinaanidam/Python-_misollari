@@ -1,0 +1,5 @@
+x=int(input("Kanfet kilosini kiriting: "))
+A=int(input("Kanfet narxini kiriting: "))
+y=int(input("Kanfet kilosini kiriting ixtiyoriy: "))
+print("Bir kilogram kanfet narxi= ", A/x)
+print("y kilogram kanfet narxi= ", y*(A/x))

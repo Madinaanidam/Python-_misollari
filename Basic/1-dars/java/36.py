@@ -1,0 +1,5 @@
+V1=int(input("Birinchi aftobusning tezligini kiriting: "))
+V2=int(input("Ikkinchi aftobusning tezligini kiriting: "))
+T=int(input("Aftobuslarning harakatlanish vaqtini kiriting: "))
+S=int(input("Aftobuslarning orasidagi masofani kiriting: "))
+print("T vaqtdan keyin aftobuslar orasidagi masofa= ", S+(V1*T)+(V2*T))

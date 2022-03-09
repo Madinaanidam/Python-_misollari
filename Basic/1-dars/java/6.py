@@ -1,0 +1,5 @@
+a=int(input("Birinchi sonni kiriting: "))
+b=int(input("Ikkinchi sonni kiriting: "))
+c=int(input("Uchunchi sonni kiriting: "))
+print('V=', a*b*c)
+print('S=', 2*(a*b+b*c+a*c))

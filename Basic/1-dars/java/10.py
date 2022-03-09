@@ -1,0 +1,6 @@
+a=int(input("Nolga teng bo'lmagan birinchi sonni kiriting: "))
+b=int(input("Nolga teng bo'lmagan ikkinchi sonni kiriting:: "))
+print('S=', a+b)
+print('P=', a*b)
+print('K=', a**2)
+print('K1=', b**2)

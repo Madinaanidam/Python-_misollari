@@ -1,0 +1,6 @@
+A=int(input("Birinchi nuqtaning qiymatini kiriting: "))
+B=int(input("Ikkinchi nuqtaning qiymatini kiriting: "))
+C=int(input("Uchunchi nuqtaning qiymatini kiriting: "))
+print("AC=", abs(C-A))
+print("BC=", abs(C-B))
+print("Yig'indi=", (abs(C-A))+(abs(C-B)))

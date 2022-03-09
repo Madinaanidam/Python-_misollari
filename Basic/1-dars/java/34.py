@@ -1,0 +1,5 @@
+x=int(input("Shokalad kilosini kiriting: "))
+A=int(input("Shokalad narxini kiriting: "))
+y=int(input("Konfet kilosini kiriting: "))
+B=int(input("Kanfet narxini kiriting: "))
+print("Shokalad narxining konfet narxidan farqi = ", A/x-B/y)
